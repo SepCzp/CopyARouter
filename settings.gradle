@@ -1,0 +1,2 @@
+include ':app', ':router-compile', ':route_annotation', ':router-code', ':module1'
+rootProject.name='CopyARouter'
